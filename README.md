@@ -71,3 +71,4 @@ mage2Connector.syncProduct(sku, attributeSet, data, typeId, storeId)
   * [Google Sheets as PIM for Magento 2](https://ideabosque.github.io/magento2/googlesheets/2019/12/08/Google-Sheets-as-PIM-for-Magento-2/)
 
 Feel free to [create a GitHub issue](https://github.com/ideabosque/AWS-Mage2Connector/issues/new) or [send us an email](mailto:ideabosque@gmail.com) for support regarding this application.
+
